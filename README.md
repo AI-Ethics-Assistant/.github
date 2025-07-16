@@ -1,6 +1,6 @@
 # REFLECT AI Framework v1.0
 
-A globally grounded, role-based ethical reflection framework for teams building and deploying AI systems.
+A globally grounded, role-based ethical reflection framework for teams building and deploying AI systems—trauma-informed, accessibility-conscious, and built for real-world impact.
 
 ## 🔍 What is the REFLECT AI Framework?
 
